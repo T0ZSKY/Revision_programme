@@ -1,5 +1,6 @@
 Fr : 
 ////////////////////////////////////////////////////////////////////////////
+
 Bonjour, voici mon logiciel en python de révision. Il offre 3 option pour le moment : 
 
 1: Lancer une musique lofi 
@@ -13,6 +14,7 @@ Bonjour, voici mon logiciel en python de révision. Il offre 3 option pour le mo
 
 En : 
 ////////////////////////////////////////////////////////////////////////////
+
 Hello, here is my review python software. It offers 3 options at the moment:
 
 1: Play lofi music
