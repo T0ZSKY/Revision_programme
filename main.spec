@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('C:\\Users\\Tom\\Documents\\projet perso\\python\\Revision_programme\\alarme.mp3', '.'), ('C:\\Users\\Tom\\Documents\\projet perso\\python\\Revision_programme\\musique.mp3', '.'), ('C:\\Users\\Tom\\Documents\\projet perso\\python\\Revision_programme\\favicon.ico', '.')],
+    datas=[('C:\\Users\\Tom\\Documents\\projet perso\\python\\Revision_programme\\alarme.mp3', '.'), ('C:\\Users\\Tom\\Documents\\projet perso\\python\\Revision_programme\\musique.mp3', '.'), ('C:\\Users\\Tom\\Documents\\projet perso\\python\\Revision_programme\\favicon.ico', '.'), ('C:\\Users\\Tom\\Documents\\projet perso\\python\\Revision_programme\\recent_files.json', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
